@@ -17,11 +17,12 @@ Allows users to create, view, complete, and delete tasks.
 
 ## Project Structure
 
+
 task-manager/
 ├── backend/
 │   ├── routes/
-│   │   └── tasks.js       # All API route handlers
-│   └── index.js           # Express server entry point
+│   │   └── tasks.js          # All API route handlers
+│   └── index.js              # Express server entry point
 ├── frontend/
 │   ├── src/
 │   │   ├── components/
@@ -32,6 +33,7 @@ task-manager/
 │   │   └── main.jsx
 │   └── index.html
 └── README.md
+
 
 ---
 
